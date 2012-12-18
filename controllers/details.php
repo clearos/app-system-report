@@ -47,7 +47,7 @@
  * @link       http://www.clearfoundation.com/docs/developer/apps/system_report/
  */
 
-class Stats extends ClearOS_Controller
+class Details extends ClearOS_Controller
 {
     /**
      * Stats default controller

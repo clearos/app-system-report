@@ -63,7 +63,7 @@ class System_Report extends ClearOS_Controller
         // Load views
         //-----------
 
-        $views = array('system_report/stats');
+        $views = array('system_report/details');
 
         $this->page->view_forms($views, lang('system_report_app_name'));
     }
