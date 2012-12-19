@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////
 
 $app['basename'] = 'system_report';
-$app['version'] = '1.4.8';
+$app['version'] = '1.4.10';
 $app['release'] = '1';
 $app['vendor'] = 'ClearFoundation';
 $app['packager'] = 'ClearFoundation';
@@ -26,6 +26,7 @@ $app['subcategory'] = lang('base_category_system');
 /////////////////////////////////////////////////////////////////////////////
 
 $app['core_requires'] = array(
+    'lshw',
     'app-reports-core >= 1:1.4.3',
 );
 

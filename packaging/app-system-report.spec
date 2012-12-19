@@ -1,7 +1,7 @@
 
 Name: app-system-report
 Epoch: 1
-Version: 1.4.8
+Version: 1.4.10
 Release: 1%{dist}
 Summary: System Report
 License: GPLv3
@@ -19,6 +19,7 @@ Summary: System Report - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Requires: app-base-core
+Requires: lshw
 Requires: app-reports-core >= 1:1.4.3
 
 %description core
