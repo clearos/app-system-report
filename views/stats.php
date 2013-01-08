@@ -45,11 +45,25 @@ $headers = array(
     lang('system_report_value')
 );
 
+$filesystemheaders = array(
+    lang('system_report_filesystem'),
+    lang('system_report_size'),
+    lang('system_report_used'),
+    lang('system_report_avail'),
+    lang('system_report_use'),
+    lang('system_report_mounted')
+);
+
 $rows = array();
 
 foreach ($data as $id => $entry) {
     $row['details'] = array ($id,$entry[0]);
     $rows[] = $row;
+}
+
+foreach ($filesystem as $entry) {
+    $filesystemrow['details'] = $entry;
+    $filesystemrows[] = $filesystemrow;
 }
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -64,5 +78,13 @@ echo summary_table(
     $anchors,
     $headers,
     $rows,
+    $options
+);
+    
+echo summary_table(
+    lang('system_report_filesystem_summary'),
+    $anchors,
+    $filesystemheaders,
+    $filesystemrows,
     $options
 );

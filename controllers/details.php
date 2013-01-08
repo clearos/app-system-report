@@ -83,12 +83,15 @@ class Details extends ClearOS_Controller
 
             $load = $this->stats->get_load_averages();
             $data[lang('system_report_load')] = array($load['one'] . ' ' . $load['five'] . ' ' . $load['fifteen']);
+
+            $filesystem = $this->stats->get_filesystem_usage();
         } catch (Exception $e) {
             $this->page->view_exception($e);
             return;
         }
 
         $array['data'] = $data;
+        $array['filesystem'] = $filesystem;
 
         // Load views
         //-----------
