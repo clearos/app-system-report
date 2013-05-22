@@ -3,9 +3,9 @@
 /**
  * System report stats view.
  *
- * @category   ClearOS
- * @package    System_Report
- * @subpackage Views
+ * @category   apps
+ * @package    system-report
+ * @subpackage views
  * @author     ClearFoundation <developer@clearfoundation.com>
  * @copyright  2012 ClearFoundation
  * @copyright  2012 Tim Burgess
