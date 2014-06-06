@@ -1,7 +1,7 @@
 
 Name: app-system-report
 Epoch: 1
-Version: 1.4.14
+Version: 1.6.2
 Release: 1%{dist}
 Summary: System Report
 License: GPLv3
@@ -19,7 +19,6 @@ Summary: System Report - Core
 License: LGPLv3
 Group: ClearOS/Libraries
 Requires: app-base-core
-Requires: lshw
 Requires: app-reports-core >= 1:1.4.3
 
 %description core
@@ -72,8 +71,6 @@ exit 0
 %files core
 %defattr(-,root,root)
 %exclude /usr/clearos/apps/system_report/packaging
-%exclude /usr/clearos/apps/system_report/tests
 %dir /usr/clearos/apps/system_report
 /usr/clearos/apps/system_report/deploy
 /usr/clearos/apps/system_report/language
-/usr/clearos/apps/system_report/libraries
