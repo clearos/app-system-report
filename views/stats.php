@@ -49,7 +49,7 @@ $filesystemheaders = array(
     lang('system_report_filesystem'),
     lang('system_report_size'),
     lang('system_report_used'),
-    lang('system_report_avail'),
+    lang('system_report_available'),
     lang('system_report_use'),
     lang('system_report_mounted')
 );
