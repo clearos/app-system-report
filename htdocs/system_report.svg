@@ -1,0 +1,17 @@
+<svg version="1.1" class="clearos-svg clearfoundation app-vendor-clearfoundation app-free app-category-report app-sub-category-performance-and-resources" viewBox="0 0 400 400" preserveAspectRatio="xMinYMin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+<path fill="#AA0707" d="M91.666,184.647"/>
+<path fill="#AA0707" d="M123.245,247.805"/>
+<path fill="#AA0707" d="M91.666,184.647"/>
+<path fill="#AA0707" d="M123.245,247.805"/>
+<g>
+	<rect x="180.954" y="138.771" fill="#686868" width="143.72" height="14.617"/>
+	<path fill="#686868" d="M297.895,11.529H119.468v169.377H24.751c-11.954,0-21.612,9.691-21.612,21.645v164.291
+		c0,11.938,9.658,21.629,21.612,21.629h283.941c11.938,0,21.612-9.707,21.612-21.629v-34.306h66.557V123.318L297.895,11.529z
+		 M301.682,26.646l80.194,92.808h-80.194V26.646z M294.46,353.925H35.936V214.2h258.51v139.725H294.46z M385.085,319.025h-54.747
+		V202.551c0-11.952-9.708-21.645-21.66-21.645H130.667V24.462h163.375v102.371h91.042L385.085,319.025L385.085,319.025z"/>
+	<rect x="129.77" y="247.254" fill="#686868" width="126.89" height="26.331"/>
+	<rect x="73.737" y="247.254" fill="#686868" width="33.761" height="26.331"/>
+	<rect x="129.77" y="293.834" fill="#686868" width="126.89" height="26.348"/>
+	<rect x="73.737" y="293.834" fill="#686868" width="33.761" height="26.348"/>
+</g>
+</svg>
