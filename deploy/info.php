@@ -5,7 +5,7 @@
 /////////////////////////////////////////////////////////////////////////////
 
 $app['basename'] = 'system_report';
-$app['version'] = '2.1.6';
+$app['version'] = '2.1.7';
 $app['release'] = '1';
 $app['vendor'] = 'ClearFoundation';
 $app['packager'] = 'ClearFoundation';
@@ -28,6 +28,23 @@ $app['subcategory'] = lang('base_subcategory_performance_and_resources');
 $app['core_requires'] = array(
     'app-reports-core >= 1:1.4.3',
 );
+
+/////////////////////////////////////////////////////////////////////////////
+// Dashboard Widgets
+/////////////////////////////////////////////////////////////////////////////
+
+$app['dashboard_widgets'] = array(
+    $app['category'] => array(
+        'system_report/system_report_dashboard/uptime' => array(
+            'title' => lang('base_uptime'),
+            'restricted' => FALSE,
+        )
+    )
+);
+
+/////////////////////////////////////////////////////////////////////////////
+// App Removal Dependencies
+/////////////////////////////////////////////////////////////////////////////
 
 $app['delete_dependency'] = array(
     'app-system-report-core'
