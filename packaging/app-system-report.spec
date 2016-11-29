@@ -1,7 +1,7 @@
 
 Name: app-system-report
 Epoch: 1
-Version: 2.1.7
+Version: 2.3.0
 Release: 1%{dist}
 Summary: System Report
 License: GPLv3
@@ -20,6 +20,7 @@ License: LGPLv3
 Group: ClearOS/Libraries
 Requires: app-base-core
 Requires: app-reports-core >= 1:1.4.3
+Requires: sysstat
 
 %description core
 The System Report provides information on the operating system and underlying hardware.
