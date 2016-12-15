@@ -14,6 +14,7 @@ $lang['system_report_mounted'] = 'Mounted';
 $lang['system_report_size'] = 'Size';
 $lang['system_report_system_details'] = 'System Details';
 $lang['system_report_system_time'] = 'System Time';
+$lang['system_report_uptime'] = 'Uptime';
 $lang['system_report_use'] = 'Use %';
 $lang['system_report_used'] = 'Used';
 $lang['system_report_value'] = 'Value';
