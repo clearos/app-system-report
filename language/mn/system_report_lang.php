@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
-$lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
-$lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
-$lang['system_report_item'] = 'Item';
-$lang['system_report_kernel_version'] = 'Kernel Version';
+$lang['system_report_app_description'] = 'Системийн тайлан үйлдлийн систем, үндсэн тоног төхөөрөмжийн талаар мэдээлэл өгнө.';
+$lang['system_report_app_name'] = 'Системийн тайлан';
+$lang['system_report_available'] = 'Боломжит';
+$lang['system_report_cpu_model'] = 'CPU-ийн загвар';
+$lang['system_report_filesystem'] = 'Файл систем';
+$lang['system_report_filesystem_summary'] = 'файлын системийн тойм';
+$lang['system_report_item'] = 'Барааны';
+$lang['system_report_kernel_version'] = 'Цөмийн хувилбар';
 $lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
-$lang['system_report_system_time'] = 'System Time';
-$lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_memory_size'] = 'Санах ойн хэмжээ';
+$lang['system_report_mounted'] = 'Морьт';
+$lang['system_report_size'] = 'Хэмжээ';
+$lang['system_report_system_details'] = 'Системийн мэдээлэл';
+$lang['system_report_system_time'] = 'Системийн цаг';
+$lang['system_report_uptime'] = 'ашиглалтын хугацааг';
+$lang['system_report_use'] = '% ашиглах';
+$lang['system_report_used'] = 'Ашиглагдсан';
+$lang['system_report_value'] = 'үнэ цэнэ';
