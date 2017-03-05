@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
-$lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
+$lang['system_report_app_description'] = 'Die stelsel Verslag verskaf inligting oor die bedryfstelsel en onderliggende hardeware.';
+$lang['system_report_app_name'] = 'stelsel Verslag';
+$lang['system_report_available'] = 'Beskikbaar';
 $lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
-$lang['system_report_item'] = 'Item';
-$lang['system_report_kernel_version'] = 'Kernel Version';
-$lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
-$lang['system_report_system_time'] = 'System Time';
-$lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_filesystem'] = 'Leêr stelsel';
+$lang['system_report_filesystem_summary'] = 'lêerstelsel Opsomming';
+$lang['system_report_item'] = 'item';
+$lang['system_report_kernel_version'] = 'kern weergawe';
+$lang['system_report_load'] = 'vrag';
+$lang['system_report_memory_size'] = 'geheue grootte';
+$lang['system_report_mounted'] = 'gemonteer';
+$lang['system_report_size'] = 'grootte';
+$lang['system_report_system_details'] = 'stelsel Besonderhede';
+$lang['system_report_system_time'] = 'stelsel Tyd';
+$lang['system_report_uptime'] = 'uptime';
+$lang['system_report_use'] = 'Gebruik %';
+$lang['system_report_used'] = 'gebruik';
+$lang['system_report_value'] = 'waarde';
