@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
-$lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
+$lang['system_report_app_description'] = 'Ripoti System hutoa habari juu ya mfumo wa uendeshaji na vifaa msingi.';
+$lang['system_report_app_name'] = 'Ripoti System';
+$lang['system_report_available'] = 'inapatikana';
 $lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
-$lang['system_report_item'] = 'Item';
-$lang['system_report_kernel_version'] = 'Kernel Version';
-$lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
+$lang['system_report_filesystem'] = 'filesystem';
+$lang['system_report_filesystem_summary'] = 'filesystem Summary';
+$lang['system_report_item'] = 'item';
+$lang['system_report_kernel_version'] = 'kernel Version';
+$lang['system_report_load'] = 'mzigo';
+$lang['system_report_memory_size'] = 'kumbukumbu Size';
+$lang['system_report_mounted'] = 'vyema';
+$lang['system_report_size'] = 'ukubwa';
+$lang['system_report_system_details'] = 'Maelezo System';
 $lang['system_report_system_time'] = 'System Time';
-$lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_uptime'] = 'uptime';
+$lang['system_report_use'] = 'kutumia%';
+$lang['system_report_used'] = 'kutumika';
+$lang['system_report_value'] = 'thamani';
