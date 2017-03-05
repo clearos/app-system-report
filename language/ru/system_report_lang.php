@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
-$lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
-$lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
-$lang['system_report_item'] = 'Item';
-$lang['system_report_kernel_version'] = 'Kernel Version';
-$lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
-$lang['system_report_system_time'] = 'System Time';
+$lang['system_report_app_description'] = 'Отчет Система предоставляет информацию о операционной системе и базовым аппаратным обеспечением.';
+$lang['system_report_app_name'] = 'система отчетов';
+$lang['system_report_available'] = 'Доступный';
+$lang['system_report_cpu_model'] = 'CPU Модель';
+$lang['system_report_filesystem'] = 'Файловая система';
+$lang['system_report_filesystem_summary'] = 'Filesystem Резюме';
+$lang['system_report_item'] = 'Пункт';
+$lang['system_report_kernel_version'] = 'Версия ядра';
+$lang['system_report_load'] = 'нагрузка';
+$lang['system_report_memory_size'] = 'Размер памяти';
+$lang['system_report_mounted'] = 'смонтированный';
+$lang['system_report_size'] = 'Размер';
+$lang['system_report_system_details'] = 'Детали системы';
+$lang['system_report_system_time'] = 'Системное время';
 $lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_use'] = 'Используйте%';
+$lang['system_report_used'] = 'Используемый';
+$lang['system_report_value'] = 'Стоимость';
