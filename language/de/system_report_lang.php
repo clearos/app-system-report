@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
+$lang['system_report_app_description'] = 'Das System Report enthält Informationen über das Betriebssystem und die zugrunde liegenden Hardware.';
 $lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
-$lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
-$lang['system_report_item'] = 'Item';
+$lang['system_report_available'] = 'Verfügbar';
+$lang['system_report_cpu_model'] = 'CPU Modell';
+$lang['system_report_filesystem'] = 'Dateisystem';
+$lang['system_report_filesystem_summary'] = 'Filesystem Zusammenfassung';
+$lang['system_report_item'] = 'Artikel';
 $lang['system_report_kernel_version'] = 'Kernel Version';
-$lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
-$lang['system_report_system_time'] = 'System Time';
-$lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_load'] = 'Belastung';
+$lang['system_report_memory_size'] = 'Speichergröße';
+$lang['system_report_mounted'] = 'montiert';
+$lang['system_report_size'] = 'Größe';
+$lang['system_report_system_details'] = 'System-Details';
+$lang['system_report_system_time'] = 'Systemzeit';
+$lang['system_report_uptime'] = 'Betriebszeit';
+$lang['system_report_use'] = 'Benutzen %';
+$lang['system_report_used'] = 'Benutzt';
+$lang['system_report_value'] = 'Wert';
