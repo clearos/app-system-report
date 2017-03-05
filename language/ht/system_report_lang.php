@@ -1,20 +1,20 @@
 <?php
 
-$lang['system_report_app_description'] = 'The System Report provides information on the operating system and underlying hardware.';
-$lang['system_report_app_name'] = 'System Report';
-$lang['system_report_available'] = 'Available';
-$lang['system_report_cpu_model'] = 'CPU Model';
-$lang['system_report_filesystem'] = 'Filesystem';
-$lang['system_report_filesystem_summary'] = 'Filesystem Summary';
+$lang['system_report_app_description'] = 'Rapò a Sistèm bay enfòmasyon sou sistèm nan fonksyone ak pyès ki nan konpitè kache.';
+$lang['system_report_app_name'] = 'Sistèm Rapò';
+$lang['system_report_available'] = 'Disponib';
+$lang['system_report_cpu_model'] = 'ki gen konpòtman egzanplè CPU';
+$lang['system_report_filesystem'] = 'fichye';
+$lang['system_report_filesystem_summary'] = 'fichye Rezime';
 $lang['system_report_item'] = 'Item';
-$lang['system_report_kernel_version'] = 'Kernel Version';
-$lang['system_report_load'] = 'Load';
-$lang['system_report_memory_size'] = 'Memory Size';
-$lang['system_report_mounted'] = 'Mounted';
-$lang['system_report_size'] = 'Size';
-$lang['system_report_system_details'] = 'System Details';
-$lang['system_report_system_time'] = 'System Time';
-$lang['system_report_uptime'] = 'Uptime';
-$lang['system_report_use'] = 'Use %';
-$lang['system_report_used'] = 'Used';
-$lang['system_report_value'] = 'Value';
+$lang['system_report_kernel_version'] = 'Kernel vèsyon';
+$lang['system_report_load'] = 'chaj';
+$lang['system_report_memory_size'] = 'Kantite moun ki memwa';
+$lang['system_report_mounted'] = 'Monte';
+$lang['system_report_size'] = 'Kantite moun ki';
+$lang['system_report_system_details'] = 'Sistèm detay';
+$lang['system_report_system_time'] = 'Sistèm Tan';
+$lang['system_report_uptime'] = 'disponibilite';
+$lang['system_report_use'] = 'Sèvi ak%';
+$lang['system_report_used'] = 'Itilize';
+$lang['system_report_value'] = 'valè';
